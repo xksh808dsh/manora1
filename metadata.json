@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Manus + Sora: Sovereign Agent",
+  "description": "An Obsidian-style knowledge vault with NotionAI intelligence, Base44 marketplace, and Gemini-powered orchestration (Veo, Live, Image Gen).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
